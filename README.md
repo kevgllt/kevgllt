@@ -1,8 +1,7 @@
 ### Olá! Eu sou o Kevin Gullyt
 
 
-- 🔭 Cursando Ensino Superior
-- 🌱 Estudando HTML - CSS - JavaScript
+##
 
  <div>
   <a href="https://github.com/kevgllt">
